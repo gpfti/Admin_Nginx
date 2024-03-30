@@ -3,7 +3,7 @@
 ## Carpeta 10. Introducción a los servidores Web.
 
 1. [¿Qué es Nginx?](./10/10-A.md)
-2. [Importancia de los servidores web en el desarrollo web moderno](./10/10-B.md)
+2. [Instalación de nginx](./10/10-B.md)
 3. [Evolución de Apache http Server](./10/10-C.md)
 
 ## Carpeta 20. Administración del servidor Apache.
