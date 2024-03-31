@@ -6,4 +6,7 @@
 2. [Instalación de nginx](./10/10-B.md)
 3. [Configuración básica de Nginx](./10/10-C.md)
 4. [Directivas de Nginx](./10/10-D.md)
+5. [El módulo HTTP](./10/10-E.md)
+
+
 
