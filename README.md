@@ -8,6 +8,8 @@
 4. [Directivas de Nginx](./10/10-D.md)
 5. [El módulo HTTP](./10/10-E.md)
 6. [Variables de módulo](./10/10-F.md)
+7. [El bloque location](./10/10-G.md)
+
 
 
 
