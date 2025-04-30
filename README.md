@@ -12,6 +12,8 @@
 8. [El módulo rewrite](./10/10-H.md)
 9. [SSL con Certbot en Nginx](./10/10-I.md)
 
+[Referencias] (./19/10-Referencias.md)
+
 
 
 
