@@ -13,8 +13,8 @@
 9. [SSL con Certbot en Nginx](./10/10-I.md)  
 10. [Configuración Avanzada de Nginx](./10/10-J.md)  
   
-[Referencias](./10/10-Referencias.md)
+[Referencias](./10/10-Referencias.md)  
 
-
-
+**Disclaimer:**
+Los logotipos, marcas registradas y cualquier otro material gráfico relacionado con *NGINX* incluidos en este documento son propiedad de sus respectivos titulares, incluyendo *F5, Inc.*. Se presentan exclusivamente con fines ilustrativos y educativos, sin intención de infringir derechos de propiedad intelectual ni de sugerir afiliación, respaldo o patrocinio por parte de los propietarios de dichas marcas.
 
