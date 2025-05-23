@@ -12,7 +12,8 @@
 8. [El módulo rewrite](./10/10-H.md)
 9. [SSL con Certbot en Nginx](./10/10-I.md)  
 10. [Configuración Avanzada de Nginx](./10/10-J.md)  
-  
+11. [Balaceo de Carga (Load Balancing)](./10/10-K.md)  
+12. [LABORATORIOS - Servidor Proxy y Banaceo hacia Apache Tomcat](./10/10-L.md)    
 ---
 
 ## Carpeta 20. Tricks and Tips Nginx.
