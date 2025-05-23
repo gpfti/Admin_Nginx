@@ -13,6 +13,12 @@
 9. [SSL con Certbot en Nginx](./10/10-I.md)  
 10. [Configuración Avanzada de Nginx](./10/10-J.md)  
   
+---
+
+## Carpeta 20. Tricks and Tips Nginx.
+
+1. [Cheatsheet de Directivas](./20/20-A.md)  
+  
 [Referencias](./10/10-Referencias.md)  
 
 **Disclaimer:**
